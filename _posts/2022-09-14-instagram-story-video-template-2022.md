@@ -1,6 +1,6 @@
 ---
 title: "How to make video templates for your Instagram stories (2021)"
-date: '2022-09-14'
+date: '2022-09-13'
 layout: post
 tag: [tutorial]
 image: '/images/ig-template/video-templates-for-instagram-stories.png'
