@@ -1,11 +1,11 @@
 #-------------------------------
 # Site Settings
 
-title: Adam
-tab__title: Adam Morgan - Web Developer and Designer
-meta__title: Adam Morgan – Full Stack Software Engineer and Web Designer
+title: ML Boss
+tab__title: Mohammad Badhruddouza Khan - Machine Learning Practitioner and Data Analyst
+meta__title: Mohammad Badhruddouza Khan – Full Stack Deep Learning Engineer and Data Scientist
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Adam Morgan – Hire me to design and build your next website!
+description: Mohammad Badhruddouza Khan – Hire me to develop and build solutions for your problems regarding data!
 
 menu__settings:
   menu__items:
@@ -42,9 +42,9 @@ author:
   title: Hello I’m Adam Morgan
   # bio: Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere.
   bio: "
-    I'm a freelance Web Designer and Full-Stack Developer based in Atlanta.
-    I enjoy building everything from small business sites to interactive web apps.<br/><br/>
-    If you're interested you can schedule a preliminary call with me here.
+    I’m 4th Biomedical Engineering Student at Khulna University of Engineering & Technology.
+    I have been working on Machine Learning for 3 years and Data Analysis for 1 years. <br/><br/>
+    If you’re interested in something within my skill-set, or would like to discuss something tech. related then, feel free to reach out.
     "
   image: '/images/adam-full.png'
   avatar: '/images/adam-avatar.jpeg'
@@ -57,7 +57,7 @@ author:
 projects__settings:
   projects__title: Latest <span class="text-span">Work</span> # Add a 'text-span' class to highlight text.
   projects__description: "
-    Whether you need a personal website or a fully featured web app, I can help you meet your business needs.
+    Whether you need a solution regarding data, I can help you meet your business needs.
     "
 
 
@@ -100,7 +100,7 @@ blog__settings:
 # Contact Settings
 
 contact__settings:
-  contact__email: atom.morgan@gmail.com # Add your email for contact form
+  contact__email: badhruddouza@gmail.com # Add your email for contact form
   contact__title: <span class="text-span">Get</span> in touch # Add a title to your form
   contact__description: Need some work? I'm your guy. # Add a description to your form
 
