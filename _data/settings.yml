@@ -27,8 +27,8 @@ menu__settings:
     #     title: 'Elements'
 
 # Call to action button
-cta__button__text: Book now!
-cta__button_url: 'https://calendly.com/atom-morgan'
+# cta__button__text: Book now!
+# cta__button_url: 'https://calendly.com/atom-morgan'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
 cover__image: '/images/cover-image.jpg'
