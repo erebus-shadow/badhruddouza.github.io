@@ -1,5 +1,5 @@
 ---
-publish: false
+published: False
 title: "Snapchat got me"
 date: '2013-10-06'
 thumb_image:
