@@ -1,4 +1,5 @@
 ---
+publish: false
 title: "'Hello, Testing!' with Jasmine"
 date: '2016-03-02'
 tag: [tutorial, WebDev, JavaScript, testing]
