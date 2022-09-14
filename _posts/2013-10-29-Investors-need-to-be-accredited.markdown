@@ -1,5 +1,5 @@
 ---
-publish: false
+published: False
 title: "Investors need to be accredited?"
 date: '2013-10-29'
 layout: post
