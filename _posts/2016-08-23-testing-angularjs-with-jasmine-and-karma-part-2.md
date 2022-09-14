@@ -1,4 +1,5 @@
 ---
+publish: false
 title: 'Testing AngularJS with Jasmine and Karma (Part 2)'
 date: '2016-08-23'
 tag: [tutorial, angular, WebDev, testing]
