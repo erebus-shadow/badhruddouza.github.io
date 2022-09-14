@@ -1,4 +1,5 @@
 ---
+publish: false
 title: 'Code Companion #7: Automated Testing'
 date: '2018-07-04'
 layout: post
