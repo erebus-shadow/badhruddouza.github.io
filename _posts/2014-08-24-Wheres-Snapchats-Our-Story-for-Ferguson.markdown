@@ -1,5 +1,5 @@
 ---
-publish: false
+published: False
 title: "Where's Snapchat's 'Our Story' for Ferguson?"
 date: '2014-08-24'
 layout: post
