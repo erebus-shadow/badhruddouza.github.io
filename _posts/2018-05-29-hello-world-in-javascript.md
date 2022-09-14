@@ -1,4 +1,5 @@
 ---
+publish: false
 title: 'Code Companion #2: "Hello, world" in JavaScript'
 date: '2018-05-29'
 layout: post
