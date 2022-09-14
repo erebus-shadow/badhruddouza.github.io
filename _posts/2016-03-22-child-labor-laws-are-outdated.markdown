@@ -1,4 +1,5 @@
 ---
+publish: false
 title: "Child Labor Laws Are Outdated"
 date: '2016-03-22'
 layout: post
