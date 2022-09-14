@@ -1,4 +1,5 @@
 ---
+publish: false
 title: "In Defense of Douglas Crockford"
 date: '2016-09-03'
 layout: post
