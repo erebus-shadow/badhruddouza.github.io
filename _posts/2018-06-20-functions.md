@@ -1,4 +1,5 @@
 ---
+publish: false
 title: 'Code Companion #5: Functions'
 date: '2018-06-20'
 layout: post
