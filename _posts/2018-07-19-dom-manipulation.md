@@ -1,4 +1,5 @@
 ---
+publish: false
 title: 'Code Companion #9: DOM Manipulation'
 date: '2018-07-19'
 layout: post
