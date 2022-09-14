@@ -1,4 +1,5 @@
 ---
+publish: false
 title: 'How to Mock an API in Angular v6'
 date: '2018-07-15'
 tag: [tutorial, angular, WebDev]
