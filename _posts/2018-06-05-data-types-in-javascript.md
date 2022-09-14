@@ -1,4 +1,5 @@
 ---
+publish: false
 title: 'Code Companion #3: Data Types in JavaScript'
 date: '2018-06-05'
 layout: post
