@@ -1,4 +1,5 @@
 ---
+publish: false
 title: "Why the exchange rate and public opinion of Bitcoin doesn't matter"
 excerpt: >-
   From financial journalists to the currency layman, skepticism around Bitcoin generally comes down to two issues: usability and volatility. While the volatility of Bitcoin is definitely a topic worth discussion, I’m simply going to focus on the argument against its usability, or lack thereof, since I believe it’s the most critical issue for Bitcoin today.
