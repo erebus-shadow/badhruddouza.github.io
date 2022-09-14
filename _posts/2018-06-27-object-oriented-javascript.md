@@ -1,4 +1,5 @@
 ---
+publish: false
 title: 'Code Companion #6: Object Oriented JavaScript'
 date: '2018-06-27'
 layout: post
