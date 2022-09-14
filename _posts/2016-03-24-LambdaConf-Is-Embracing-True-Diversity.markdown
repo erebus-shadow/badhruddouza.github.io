@@ -1,5 +1,5 @@
 ---
-publish: false
+published: False
 title: "LambdaConf Is Embracing True Diversity"
 date: '2016-03-24'
 layout: post
