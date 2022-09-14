@@ -1,5 +1,5 @@
 ---
-publish: false
+published: False
 title: "Why Ideas Are Cheap"
 date: '2015-01-26'
 layout: post
