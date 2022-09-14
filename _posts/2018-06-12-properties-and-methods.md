@@ -1,4 +1,5 @@
 ---
+publish: false
 title: 'Code Companion #4: Properties and Methods in JavaScript'
 date: '2018-06-12'
 layout: post
